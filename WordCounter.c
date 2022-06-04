@@ -3,7 +3,7 @@
  * Created: August 9th, 2018
  * Author: Emily Ramanna
  * Description: - Word Summary for a text file
- *				- Accepts a command line argument for a filename and an
+ *		- Accepts a command line argument for a filename and an
  *                optional command line argument for how many words to list
  *              - Reads a file, calculates number of words, unique words,
  *                displays summary also showing most frequently occurring words.
